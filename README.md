@@ -30,7 +30,7 @@ This project is a **Streamlit** app designed to provide personalized nutrition r
 
 ```bash
 git clone https://github.com/mvvr/ai-powered_personalized_nutrition-and-meal_planing.git
-cd personalized-nutrition-app
+cd ai-powered_personalized_nutrition-and-meal_planing
 ```
 
 2. **Create a virtual environment and activate it:**
