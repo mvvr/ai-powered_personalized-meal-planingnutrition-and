@@ -4,11 +4,8 @@ import os
 
 # Set your OpenAI API key
 
-openai.api_key = ' '
-'''openai_api_key = "sk-oBW6oms1OrJ-ruDbWTK_sAY8yfmh6AWVNo8vBXMhpPT3BlbkFJhvmMyzL4Dj0wCMEyD5z-xSqIa1b9wp0ueMm6xlktYA"
-api_base = "https://api.openai.com/v1"
-client = OpenAI(api_key=openai_api_key, base_url=api_base)
-'''
+openai.api_key = 'sk-oBW6oms1OrJ-ruDbWTK_sAY8yfmh6AWVNo8vBXMhpPT3BlbkFJhvmMyzL4Dj0wCMEyD5z-xSqIa1b9wp0ueMm6xlktYA'
+
 
 
 def get_ai_meal_recommendation(name, daily_calories, diet_pref):
