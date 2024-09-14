@@ -29,7 +29,7 @@ This project is a **Streamlit** app designed to provide personalized nutrition r
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/personalized-nutrition-app.git
+git clone https://github.com/mvvr/ai-powered_personalized_nutrition-and-meal_planing.git
 cd personalized-nutrition-app
 ```
 
