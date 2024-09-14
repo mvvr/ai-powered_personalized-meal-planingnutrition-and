@@ -1,0 +1,134 @@
+Diet Preference,Food Item,Measure,Grams,Calories,Protein,Carbohydrate,Fat,Sat.Fat,Category
+Vegetarian,Cows' milk,1 qt.,976,660,32,48,40,36,Dairy products
+Vegetarian,Milk skim,1 qt.,984,360,36,52,0,0,Dairy products
+Vegetarian,Buttermilk,1 cup,246,127,9,13,5,4,Dairy products
+Vegetarian,Evaporated,1 cup,252,345,16,24,20,18,Dairy products
+Vegetarian,Fortified milk,6 cups,1419,1373,89,119,42,23,Dairy products
+Vegetarian,Powdered milk,1 cup,103,515,27,39,28,24,Dairy products
+Vegetarian,skim,1 1/3 cups,85,290,30,42,0,0,Dairy products
+Vegetarian,skim,2/3 cup,85,290,30,42,0,1,Dairy products
+Vegetarian,Goats' milk,1 cup,244,165,8,11,10,8,Dairy products
+Vegetarian,Ice cream (1/2 cup),2 cups,540,690,24,70,24,22,Dairy products
+Vegetarian,Cocoa,1 cup,252,235,8,26,11,10,Dairy products
+Vegetarian,skim. milk,1 cup,250,128,18,13,4,3,Dairy products
+Vegetarian,(cornstarch),1 cup,248,275,9,40,10,9,Dairy products
+Vegetarian,Custard,1 cup,248,285,13,28,14,11,Dairy products
+Vegetarian,Ice cream,1 cup,188,300,6,29,18,16,Dairy products
+Vegetarian,Ice milk,1 cup,190,275,9,32,10,9,Dairy products
+Vegetarian,Cream or half-and-half,1/2 cup,120,170,4,5,15,13,Dairy products
+Vegetarian,Cheese,1 cup,225,240,30,6,11,10,Dairy products
+Vegetarian,uncreamed cheese,1 cup,225,195,38,6,0,0,Dairy products
+Vegetarian,Cheddar,1-in. cube,17,70,4,6,6,5,Dairy products
+Vegetarian,Cheddar,1/2 cup,56,226,14,1,19,17,Dairy products
+Vegetarian,Cream cheese,1 oz.,28,105,2,1,11,10,Dairy products
+Vegetarian,Processed cheese,1 oz.,28,105,7,0,9,8,Dairy products
+Vegetarian,Roquefort type,1 oz.,28,105,6,0,9,8,Dairy products
+Vegetarian,Swiss,1 oz.,28,105,7,0,8,7,Dairy products
+Non-Vegetarian,Eggs raw,2,100,150,12,0,12,10,Dairy products
+Non-Vegetarian,Eggs Scrambled or fried,2,128,220,13,1,16,14,Dairy products
+Non-Vegetarian,Yolks,2,34,120,6,0,10,8,Fats Oils Shortenings
+Non-Vegetarian,Butter,1 T.,14,100,0,11,11,10,Fats Oils Shortenings
+Non-Vegetarian,Butter,1/2 cup,112,113,0,115,114,116,Fats Oils Shortenings
+Non-Vegetarian,Butter,1/4 lb.,112,113,0,115,114,116,Fats Oils Shortenings
+Non-Vegetarian,Hydrogenated cooking fat,1/2 cup,100,665,0,100,88,0,Fats Oils Shortenings
+Non-Vegetarian,Lard,1/2 cup,110,992,0,110,92,0,Fats Oils Shortenings
+Non-Vegetarian,Margarine,1/2 cup,112,806,0,91,76,0,Fats Oils Shortenings
+Non-Vegetarian,Margarine,2 pat or 1 T.,14,100,0,11,9,0,Fats Oils Shortenings
+Non-Vegetarian,Mayonnaise,1 T.,15,110,0,12,5,0,Fats Oils Shortenings
+Non-Vegetarian,Corn oil,1 T.,14,125,0,14,5,0,Fats Oils Shortenings
+Non-Vegetarian,Olive oil,1 T.,14,125,0,14,3,0,Fats Oils Shortenings
+Non-Vegetarian,Safflower seed oil,1 T.,14,125,0,14,3,0,Fats Oils Shortenings
+Non-Vegetarian,French dressing,1 T.,15,60,0,6,2,0,Fats Oils Shortenings
+Non-Vegetarian,Thousand Island sauce,1 T.,15,75,0,8,3,0,Fats Oils Shortenings
+Non-Vegetarian,Salt pork,2 oz.,60,470,3,55,0,0,Meat Poultry
+Non-Vegetarian,Bacon,2 slices,16,95,4,8,7,0,Meat Poultry
+Non-Vegetarian,Beef,3 oz.,85,245,23,16,15,0,Meat Poultry
+Non-Vegetarian,Hamburger,3 oz.,85,245,21,17,15,0,Meat Poultry
+Non-Vegetarian,Ground lean,3 oz.,85,185,24,10,9,0,Meat Poultry
+Non-Vegetarian,Roast beef,3 oz.,85,390,16,36,35,0,Meat Poultry
+Non-Vegetarian,Steak,3 oz.,85,330,20,27,25,0,Meat Poultry
+Non-Vegetarian,Steak lean,3 oz.,85,220,24,12,11,0,Meat Poultry
+Non-Vegetarian,Corned beef,3 oz.,85,185,22,10,9,0,Meat Poultry
+Non-Vegetarian,Corned beef hash canned,3 oz.,85,120,12,8,7,6,Meat Poultry
+Non-Vegetarian,Corned beef hash Dried,2 oz.,56,115,19,4,4,0,Meat Poultry
+Non-Vegetarian,Pot-pie,1 pie,227,480,18,28,25,32,Meat Poultry
+Non-Vegetarian,Corned beef hash Stew,1 cup,235,185,15,10,9,15,Meat Poultry
+Non-Vegetarian,chicken,3 oz.,85,185,23,9,7,0,Meat Poultry
+Non-Vegetarian,Fried breast or leg and thigh chicken,3 oz.,85,245,25,15,11,0,Meat Poultry
+Non-Vegetarian,Roasted chicken,3 1/2 oz.,100,290,25,20,16,0,Meat Poultry
+Non-Vegetarian,Chicken livers,3 med.,100,140,22,14,12,2.3,Meat Poultry
+Non-Vegetarian,Duck, 3 1/2 oz.,100,370,16,28,0,0,Meat Poultry
+Non-Vegetarian,Lamb,4 oz.,115,480,24,35,33,0,Meat Poultry
+Non-Vegetarian,Leg roasted,3 oz.,86,314,20,14,14,0,Meat Poultry
+Non-Vegetarian,Shoulder,3 oz.,85,285,18,23,21,0,Meat Poultry
+Non-Vegetarian,Pork 1 thick,3 1/2 oz.,100,260,16,21,18,0,Meat Poultry
+Non-Vegetarian,Ham pan-broiled,3 oz.,85,290,16,22,19,0,Meat Poultry
+Non-Vegetarian,Ham,2 oz.,57,170,13,13,11,0,Meat Poultry
+Non-Vegetarian,Ham canned,2 oz.,57,165,8,14,12,0,Meat Poultry
+Non-Vegetarian,Turkey roast breast,3 oz.,85,115,26,0,1,0,Meat Poultry
+Non-Vegetarian,Turkey roast thigh,3 oz.,85,140,22,0,7,0,Meat Poultry
+Non-Vegetarian,Turkey fried leg and thigh,3 oz.,85,340,27,9,28,0,Meat Poultry
+Non-Vegetarian,Tuna fresh,3 oz.,85,145,26,0,2,0,Fish Shellfish
+Non-Vegetarian,Salmon fresh,3 oz.,85,235,25,0,15,0,Fish Shellfish
+Non-Vegetarian,Halibut fresh,3 oz.,85,160,28,0,2,0,Fish Shellfish
+Non-Vegetarian,Cod fresh,3 oz.,85,90,18,0,1,0,Fish Shellfish
+Non-Vegetarian,Crabmeat,3 oz.,85,70,15,0,1,0,Fish Shellfish
+Non-Vegetarian,Oysters,3 oz.,85,70,9,4,1,0,Fish Shellfish
+Non-Vegetarian,Shrimp,3 oz.,85,90,17,0,1,0,Fish Shellfish
+Non-Vegetarian,Mussels,3 oz.,85,100,15,3,2,0,Fish Shellfish
+Non-Vegetarian,Clams,3 oz.,85,100,18,0,1,0,Fish Shellfish
+Non-Vegetarian,Beef liver,3 oz.,85,200,27,0,7,0,Organ Meats
+Non-Vegetarian,Pork liver,3 oz.,85,130,23,0,4,0,Organ Meats
+Non-Vegetarian,Chicken liver,3 oz.,85,130,23,0,4,0,Organ Meats
+Non-Vegetarian,Beef heart,3 oz.,85,135,22,0,3,0,Organ Meats
+Vegetarian,Soy milk,1 cup,248,85,7,7,4,0,Meat Substitutes
+Vegetarian,Tofu,1/4 lb.,113,140,15,5,8,1,Meat Substitutes
+Vegetarian,Tempeh,1/4 lb.,113,190,20,15,10,2,Meat Substitutes
+Vegetarian,Seitan,1/4 lb.,113,120,20,10,1,0,Meat Substitutes
+Vegetarian,Textured vegetable protein,1 cup,72,100,12,7,2,0,Meat Substitutes
+Vegetarian,Edamame,1 cup,155,189,17,15,8,1,Legumes
+Vegetarian,Lentils,1 cup,198,230,18,40,1,0,Legumes
+Vegetarian,Chickpeas,1 cup,164,269,15,45,4,1,Legumes
+Vegetarian,Black beans,1 cup,172,227,15,41,0,0,Legumes
+Vegetarian,Peas,1 cup,160,118,8,21,0,0,Legumes
+Vegetarian,Almonds,1 oz.,28,160,6,6,14,1,Nuts Seeds
+Vegetarian,Walnuts,1 oz.,28,190,4,4,18,2,Nuts Seeds
+Vegetarian,Sunflower seeds,1 oz.,28,165,6,6,14,1,Nuts Seeds
+Vegetarian,Chia seeds,1 oz.,28,140,5,12,9,1,Nuts Seeds
+Vegetarian,Pumpkin seeds,1 oz.,28,150,7,5,13,2,Nuts Seeds
+Vegetarian,Whole wheat bread,1 slice,28,80,4,14,1,0,Bread
+Vegetarian,White bread,1 slice,28,70,2,14,1,0,Bread
+Vegetarian,Roll,1,42,140,5,22,3,0,Bread
+Vegetarian,English muffin,1,45,120,5,24,1,0,Bread
+Vegetarian,Bagel,1,90,250,9,49,1,0,Bread
+Vegetarian,Rice,1 cup,195,205,4,45,0,0,Cereals
+Vegetarian,Oatmeal,1 cup,234,150,6,27,2,0,Cereals
+Vegetarian,Cornflakes,1 cup,30,100,2,24,0,0,Cereals
+Vegetarian,Whole grain cereal,1 cup,30,120,4,30,1,0,Cereals
+Vegetarian,Macaroni,1 cup,140,220,7,42,1,0,Pasta
+Vegetarian,Spaghetti,1 cup,140,220,7,42,1,0,Pasta
+Vegetarian,Rice noodles,1 cup,140,192,5,40,1,0,Pasta
+Vegetarian,Lasagna,1 cup,140,220,12,36,8,0,Pasta
+Vegetarian,Potato,1 medium,150,130,3,30,0,0,Vegetables
+Vegetarian,Broccoli,1 cup,156,55,4,11,1,0,Vegetables
+Vegetarian,Carrot,1 medium,61,25,1,6,0,0,Vegetables
+Vegetarian,Cucumber,1 medium,150,15,1,4,0,0,Vegetables
+Vegetarian,Spinach,1 cup,180,40,5,6,0,0,Vegetables
+Vegetarian,Tomato,1 medium,123,22,1,5,0,0,Vegetables
+Vegetarian,Apple,1 medium,182,95,0,25,0,0,Fruits
+Vegetarian,Banana,1 medium,118,105,1,27,0,0,Fruits
+Vegetarian,Orange,1 medium,131,62,1,15,0,0,Fruits
+Vegetarian,Strawberries,1 cup,144,50,1,12,0,0,Fruits
+Vegetarian,Blueberries,1 cup,148,85,1,21,0,0,Fruits
+Vegetarian,Peach,1 medium,150,58,1,14,0,0,Fruits
+Vegetarian,Avocado,1 medium,150,240,3,12,22,3,Fruits
+Vegetarian,Melon,1 cup,177,60,1,15,0,0,Fruits
+Vegetarian,Watermelon,1 cup,152,46,1,12,0,0,Fruits
+Vegetarian,Peanut butter,1 T.,16,94,4,3,8,1,Nuts Seeds
+Vegetarian,Granola bar,1 bar,50,200,5,30,7,2,Snacks
+Vegetarian,Trail mix,1 oz.,28,150,5,17,8,0,Snacks
+Vegetarian,Popcorn,1 cup,8,30,1,6,0,0,Snacks
+Vegetarian,Chips,1 oz.,28,150,2,15,10,1,Snacks
+Vegetarian,Chex Mix,1 cup,120,130,3,18,7,1,Snacks
+Vegetarian,Chocolate bar,1 oz.,28,150,2,17,9,5,Snacks
+Vegetarian,Cookies,1,18,80,1,12,4,2,Snacks
