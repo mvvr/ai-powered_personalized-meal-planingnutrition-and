@@ -1,7 +1,7 @@
 import openai
 
 # Set your API key here
-openai.api_key = 'sk-oBW6oms1OrJ-ruDbWTK_sAY8yfmh6AWVNo8vBXMhpPT3BlbkFJhvmMyzL4Dj0wCMEyD5z-xSqIa1b9wp0ueMm6xlktYA'
+openai.api_key = ''
 
 def test_openai_key():
     try:
